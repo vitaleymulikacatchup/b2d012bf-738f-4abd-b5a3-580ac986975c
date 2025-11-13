@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -431,7 +431,6 @@ export default function Home() {
             }
           ]}
           logoSrc="https://pixabay.com/get/gd2b706e86f6e910b13ed52666ee5f3b41e8fec950eca1b7de3452536d2e803679a033b6239dc2e5b038fdca8c5c6cf7ba67b8bcc9cdbae22f174e0b4b910d6d2_1280.jpg"
-          logoAlt="Memorial Sushi Sports logo"
           copyrightText="© 2025 | Memorial Sushi Sports"
         />
       </div>
